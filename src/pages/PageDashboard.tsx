@@ -4,7 +4,10 @@ export const PageDashboard = () => {
 	return (
 		<div className="page pageDashboard">
 			<p>This is the Dashboard page.</p>
-			<img className="employment" src={employment}/>
+			<img className="employment" src={employment} />
+			<div>
+				<img src="images/job.jpg" />
+			</div>
 		</div>
 	);
 };
