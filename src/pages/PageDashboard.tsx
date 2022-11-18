@@ -8,10 +8,6 @@ export const PageDashboard = () => {
 			<div>
 				<img src="images/job.jpg" />
 			</div>
-			<h2>Here is the big employement image:</h2>
-			<div>
-				<img src="../../src/assets/employment.jpg"/>
-			</div>
 		</div>
 	);
 };
