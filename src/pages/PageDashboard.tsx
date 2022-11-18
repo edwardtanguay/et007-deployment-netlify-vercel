@@ -7,7 +7,6 @@ export const PageDashboard = () => {
 			<img className="employment" src={employment} />
 			<div>
 				<img src="images/job.jpg" />
-				<img src="../../src/assets/employment.jpg"/>
 			</div>
 		</div>
 	);
