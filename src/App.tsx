@@ -4,10 +4,6 @@ import { PageDashboard } from './pages/PageDashboard';
 import { PageJobs } from './pages/PageJobs';
 import { PageSkills } from './pages/PageSkills';
 
-let age = 34;
-
-age = "fifteen";
-
 function App() {
 	return (
 		<div className="App">
